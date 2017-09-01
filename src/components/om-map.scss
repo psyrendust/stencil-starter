@@ -1,0 +1,15 @@
+@import 'reset';
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+om-map,
+om-map .om-map {
+  box-sizing: border-box;
+  bottom: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
